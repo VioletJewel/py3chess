@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+src/Chessy.egg-info/PKG-INFO
+src/Chessy.egg-info/SOURCES.txt
+src/Chessy.egg-info/dependency_links.txt
+src/Chessy.egg-info/entry_points.txt
+src/Chessy.egg-info/requires.txt
+src/Chessy.egg-info/top_level.txt

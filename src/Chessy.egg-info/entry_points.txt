@@ -1,0 +1,3 @@
+[console_scripts]
+chessy = chess_box.ui:main
+
