@@ -3,6 +3,8 @@ Chessy
 
 This chess game was written by Violet McClure for final project.
 
+![chessy interface picture](https://github.com/VioletJewel/i/blob/main/chessy.png)
+
 There is no chess engine; this was quite enough work as it is.
 
 It provides move validation and a nice UI.
